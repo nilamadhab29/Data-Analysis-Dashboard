@@ -17,7 +17,7 @@ store can understand their customers and grow more sales in coming year like 202
 - Highest selling category?
 - Percentage of Total Oreders delivered.
 
-  ## Process
+## Process
 - Verify data for any missing values and anomalies and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the question asked.
@@ -26,4 +26,17 @@ store can understand their customers and grow more sales in coming year like 202
 ## Dashboard
 
 <img width="1682" height="635" alt="Screenshot 2026-02-18 101311" src="https://github.com/user-attachments/assets/5631e34a-9006-4bd3-b5b1-23fa22ca572b" />
+
+## Project Insight
+- Women customers are more likely to buy products compared to men (~65%).
+- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
+- The adult age group (30-49) is max contibuting (~50%) and buys the most products.
+- The maximum number of products customers orders from Amazon, Flipkart and Myntra channels.
+- More than 90% of the products delivered
+
+## Final Conclusion:
+To imporve the sales of Arvind Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka and 
+Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and 
+lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+
 
